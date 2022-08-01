@@ -1,1 +1,1 @@
-It is the second chapter to understand the git commands and to learn about version control.
+It is the second chapter to understand the git commands and to learn about version control. This is now the test branch
